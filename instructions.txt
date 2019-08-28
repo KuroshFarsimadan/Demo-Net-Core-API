@@ -1,0 +1,4 @@
+1. Static files: 
+	- All the static files must be in the wwwroot folder
+	- Example: https://localhost:44358/tester.html
+	
